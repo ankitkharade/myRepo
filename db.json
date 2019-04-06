@@ -22,7 +22,7 @@
     }
   ]
 
-  "todoItem":[
+  "todoItem": [
     {
       "id":1,
       "title":"item1",
